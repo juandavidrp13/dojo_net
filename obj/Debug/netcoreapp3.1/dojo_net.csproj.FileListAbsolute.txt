@@ -1,0 +1,5 @@
+/home/juan/Escritorio/dojo_net/obj/Debug/netcoreapp3.1/dojo_net.csprojAssemblyReference.cache
+/home/juan/Escritorio/dojo_net/obj/Debug/netcoreapp3.1/dojo_net.AssemblyInfoInputs.cache
+/home/juan/Escritorio/dojo_net/obj/Debug/netcoreapp3.1/dojo_net.AssemblyInfo.cs
+/home/juan/Escritorio/dojo_net/obj/Debug/netcoreapp3.1/dojo_net.csproj.CoreCompileInputs.cache
+/home/juan/Escritorio/dojo_net/obj/Debug/netcoreapp3.1/dojo_net.MvcApplicationPartsAssemblyInfo.cache
